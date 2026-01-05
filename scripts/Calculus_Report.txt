@@ -1,0 +1,7 @@
+Class Average Score; 78.0
+ 
+Grade Frequencies:
+A: 5
+B: 4
+C: 1
+E: 0
